@@ -35,3 +35,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Ignores all files starting with the letter z
+*.z
+
+# Ignores a file called .env.
+*.env
+
+# Ignores a top-level directory named artifacts
+artifacts.*
